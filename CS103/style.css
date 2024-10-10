@@ -6,3 +6,39 @@
     background-color: lightgrey;
     color:black;
 }
+#id2{
+    color:red;
+}
+.highlight{
+    color: green;
+}
+.main-content{ 
+    background-color: yellow;
+}
+#id3{
+    text-align: center;
+}
+a{ 
+    text-decoration:none;
+}s
+#id4{
+    text-decoration:underline;
+}
+.bold-text{
+    font-weight:bold;
+}
+.intro{
+    font-weight: 300;
+}
+#id5{
+    font-family:Arial, Helvetica, sans-serif
+}
+.custom-font{
+    font-family: 'Times New Roman', Times, serif;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.capitalize-text{
+    text-transform: capitalize;
+}
